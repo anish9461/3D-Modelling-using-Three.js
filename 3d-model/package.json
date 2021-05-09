@@ -8,7 +8,7 @@
     "react-scripts": "3.2.0",
     "react-three-fiber": "^3.0.7",
     "react-three-renderer-objects": "0.0.6",
-    "three": "^0.109.0"
+    "three": "^0.125.0"
   },
   "scripts": {
     "start2": "react-scripts start",
